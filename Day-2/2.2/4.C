@@ -2,15 +2,16 @@
 // area of triangle
 int main()
 {
-    int a,b,c ;
-    float Ans;
+    int BABY,BOURNVITA,MUDMANATHI;
+    float ZUMKHEWALIBIWI;
 
-    printf("Enter value of p r and n :");
-    scanf("%d",&a);
-    scanf("%d",&b);
-    scanf("%d",&c);
-    Ans=a*b*c*0.01;
+    printf("BABY NE BOURNVITA PIVDAVO:");
+    scanf("%d",&BABY);
+    scanf("%d",&BOURNVITA);
+    scanf("%d",&MUDMANATHI);
+
+    ZUMKHEWALIBIWI=BABY*BOURNVITA*MUDMANATHI*0.01;
     
-    printf("Intrest is :%f|\n",Ans);
+    printf("BABY MUDMANATHI:%f|\n",ZUMKHEWALIBIWI);
 
     }
