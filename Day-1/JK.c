@@ -4,9 +4,10 @@ int main()
 {
     printf("--------\n");
     printf("|       |\n");
+    printf("|J      |\n");
+    printf("|K      |\n");
     printf("|R      |\n");
-    printf("|N      |\n");
-    printf("|W      |\n");
+    printf("|J      |\n");
     printf("|       |\n");
     printf("--------\n");  
 }

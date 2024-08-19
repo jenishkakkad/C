@@ -2,7 +2,8 @@
 
 int main()
 {
-    printf("Nane:JK & JR & RJ & RK\n");
-    printf("Age:19\n");
-    printf("School:SHREE V.J MODI SCHOOL\n");    
+    printf("Nane:JENISH KAKKAD\n");
+    printf("BIWI:R NAAM KI ZUMKHEWALIBIWI\n");
+    printf("BIWI KI PERSONALITY:MODERN , GORGEOUS , NKHRE KRTI NKHRADI\n");    
+    printf("CHASMAVADI/CHASMAVGARNI:CHASMAVADI\n");    
 }

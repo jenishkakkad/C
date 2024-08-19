@@ -2,12 +2,12 @@
 // area of triangle
 int main()
 {
-    int JK,JR;
+    float JK,JR;
     float JKRJ;
 
     printf("Enter value of l and b :");
-    scanf("%d", &JK);
-    scanf("%d", &JR);
+    scanf("%f", &JK);
+    scanf("%f", &JR);
     JKRJ = 0.5 * JK * JR;
 
     printf("area of triangle is :%f",JKRJ);

@@ -2,9 +2,9 @@
 
 int main()
 {
-    printf("*\n");
-    printf("* *\n");
-    printf("* * *\n");
-    printf("* *\n");
-    printf("*\n");    
+    printf("J\n");
+    printf("J J\n");
+    printf("J J J\n");
+    printf("J J\n");
+    printf("J\n");    
 }

@@ -8,7 +8,7 @@ int main()
 
     printf("Enter value of r :");
     scanf("%d",&a);
-    Ans = 2*pi*a ;
+    Ans=2*pi*a ;
     
     printf("perimeter of circle is :%f|\n",Ans);
 

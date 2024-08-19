@@ -2,13 +2,13 @@
 
 int main()
 {
-    printf("*\n");
-    printf("*\n");
-    printf("*\n");
-    printf("*         *   *             *\n");
-    printf("*       *       *         *\n");
-    printf("*     *           *     *\n");
-    printf("*   *               * *\n");
-    printf("* *\n");
-    printf("*\n");   
+    printf("R\n");
+    printf("R\n");
+    printf("R\n");
+    printf("R         R   R             R\n");
+    printf("R       R       R         R\n");
+    printf("R     R           R     R\n");
+    printf("R   R               R R\n");
+    printf("R R\n");
+    printf("R\n");   
 }
