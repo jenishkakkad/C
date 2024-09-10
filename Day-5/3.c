@@ -6,25 +6,25 @@ int main()
     float maths, english, science, Ans;
 
     printf("Enter maths mark:");
-    scanf("%d", &maths);
+    scanf("%f", &maths);
 
     printf("Enter english mark:");
-    scanf("%d", &english);
+    scanf("%f", &english);
 
     printf("Enter science mark:");
-    scanf("%d", &science);
+    scanf("%f", &science);
 
-    if (0 < maths, 0 < english, 0 < science || 100 < maths, 100 < english, 100 < science)
-    {
-        printf("Enter Your Valid Marks\n");
-    }
+    // if (maths,english,science < 0 && maths,english,science > 100)
+    // {
+    //     printf("Enter Your Valid Marks\n");
+    // }
 
-    else
-    {
-        printf("marks is valid");
-    }
+    // else
+    // {
+    //     printf("marks is valid");
+    // }
 
-    Ans = maths + english + science / 3;
+    Ans = (maths + english + science)/3;
 
-    printf("Average mark:%d\n",Ans);
+    printf("Average mark:%f\n", Ans);
 }

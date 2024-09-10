@@ -10,9 +10,9 @@ int main()
     scanf("%d",&JR);
     scanf("%d",&RK);
 
-    if(JK>JR && JK==RK)
+    if(JK>JR)
     {
-        if (JK>RK && JK==JR)
+        if (JK>RK)
         {
            printf("JK is max");
         }
@@ -26,7 +26,7 @@ int main()
     
     else
     {
-        if (JR>RK && JR==JK)
+        if (JR>RK)
         {
             printf("JR is max");
         }

@@ -3,37 +3,37 @@
 int main()
 
 {
-    int JK,JR,RK;
+    int a,b,c;
 
     printf("Enter value of JK,JR,RK:");
-    scanf("%d",&JK);
-    scanf("%d",&JR);
-    scanf("%d",&RK);
+    scanf("%d",&a);
+    scanf("%d",&b);
+    scanf("%d",&c);
 
-    if(JK<JR)
+    if(a < b)
     {
-        if (JK<RK)
+        if (a < b)
         {
-           printf("JK is min");
+           printf("a is min");
         }
 
         else
         {
-            printf("RK is min");
+            printf("b is min");
         }
         
     }
 
     else
     {
-        if (JR<RK)
+        if (b < c)
         {
-            printf("JR is min");
+            printf("b is min");
         }
 
         else
         {
-            printf("RK is min");
+            printf("c is min");
         }
         
     }

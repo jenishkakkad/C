@@ -13,6 +13,6 @@ int main()
     b = a-b;
     a = a-b;
 
-    printf("the new value of a = %d",a);
+    printf("the new value of a = %d\n",a);
     printf("the new value of b = %d",b);
     }
