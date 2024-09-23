@@ -1,0 +1,1 @@
+// 8 mi e j 1 li pattern che

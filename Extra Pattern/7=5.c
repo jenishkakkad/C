@@ -1,0 +1,1 @@
+// 7 mi pattern 5 mi j che

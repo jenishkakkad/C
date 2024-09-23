@@ -11,10 +11,10 @@ int main()
    for (i = 1; i <=N; i++)
    {
      sum=sum+i;
-   //   printf("%d\t",sum);
+     printf("%d\t",sum);
    }   
 
-   printf("%d",sum);
+  //  printf("%d",sum);
 }
 
 
